@@ -11,4 +11,4 @@ testowe repozytorium
 
 to dodaje
 
-i to 1111 2222
+i to 1111 2222 333
