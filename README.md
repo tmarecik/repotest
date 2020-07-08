@@ -8,3 +8,7 @@ testowe repozytorium
 ////  trutu tutu
 
 **pogrubienie mialobyc**
+
+to dodaje
+
+i to
